@@ -16,6 +16,11 @@ The objective is to transform government open data into clear financial insights
 - Analyze budget adjustments across expenditure categories.
 - Compare budget execution between Q1 and Q2 of 2026.
 - Highlight key financial insights through an executive dashboard.
+  
+## Dashboard Preview
+Based on the Q2 2026 reporting snapshot:
+
+![Chocolate Store Analysis Dashboard](MEWA-Budget-Performance-dashboard.png)
 
 ## Tools & Technologies
 
@@ -80,20 +85,8 @@ Provides a detailed breakdown of current budget, cumulative spending, execution 
 ### 5. Executive Key Insights
 Summarizes notable spending patterns, high execution rates, and significant budget adjustments.
 
-## Key Findings
 
-Based on the Q2 2026 reporting snapshot:
-
-| KPI | Result |
-|---|---:|
-| Current Budget | SAR 12.93 billion |
-| Cumulative Spending | SAR 8.29 billion |
-| Execution Rate | 64.09% |
-| Remaining Budget | SAR 4.64 billion |
-| Budget Adjustment | +SAR 351.65 million |
-| QoQ Spending Growth | Approximately 67% |
-
-Additional observations:
+## observations:
 
 - **Goods & Services** recorded the highest cumulative spending, at approximately SAR 4.56 billion.
 - **Other Expenses** had the highest budget execution rate, at approximately 79%.
@@ -109,13 +102,6 @@ These findings describe the analyzed data and do not represent official assessme
 - The dashboard focuses on descriptive financial analysis and does not include forecasting.
 - Results depend on the completeness and accuracy of the published source data.
 
-## Dashboard Preview
-
-Add your dashboard screenshot to the `images` folder and name it `dashboard.png`.
-
-Then uncomment the following line:
-
-<!-- ![MEWA 2026 Budget Performance Dashboard](images/dashboard.png) -->
 
 ## Disclaimer
 
